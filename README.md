@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning some skills to find my specific interest. I am still researching my special interest and I might be drawn to UI/UX and frontend programming. My tech stack includes:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 🤔 I’m looking for help with UI/UX and FrontEnd learning.
-- 💬 Ask me about anything.
+- 💬 Ask me about anything!
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:tahtaemail@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been working on some side projects with Vercel and Netlify.
