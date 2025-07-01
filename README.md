@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with UI/UX and FrontEnd learning.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:tahtaemail@gmail.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahtaemail@gmail.com)
-
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been working on some side projects with Vercel and Netlify.
 
