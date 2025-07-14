@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🧃 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:tahtaemail@gmail.com)
 - 👾 Pronouns: he/him
 - 🌈 Fun fact:
-  I'm a comically nerdy weirdo who hides sharp logic behind ironic humor and sarcasm. I'm logical and a nerd by personality but also awkward-funny ! 🤓🧬
+  I'm a comically nerdy weirdo who hides sharp logic behind ironic humor and sarcasm. I'm logical and a nerd by personality but also awkward-funny. 🤓🧬
   I love Pokemon and dinosaurs !
   I've been working on some side projects with Vercel and Netlify.
 
