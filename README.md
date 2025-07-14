@@ -5,15 +5,14 @@ Hallo 👋, I'm Tahta !! I am a 19 yo Software Engineering student from Bandung.
 
 Here are some ideas to get you started:
 -->
-- 🔬 I’m currently working on some stuff for my portfolio and college. You can check my portfolio and stuff I've been working on here: https://lambent-figolla-3feb07.netlify.app/
+- 🔬 I’m currently working on some stuff for college and improving my portfolio with new projects. You can check my portfolio and stuff I've been working on here: https://lambent-figolla-3feb07.netlify.app/
 - 🧠 I’m currently learning some skills to find my specific interest. I am still researching my special interest and I might be drawn to UI/UX and frontend programming. I think in color palettes, but I also solve problems like a programmer. My tech stack includes:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 🔍 I’m looking for help with UI/UX and FrontEnd learning.
-- 🪐 Ask me about anything!
-- 🧃 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:tahtaemail@gmail.com)
+- 🪐 Ask me about collaborations or just talk about hobbies and tech !
+- 🧃 How to reach me: Let's connect on [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:tahtaemail@gmail.com)
 - 👾 Pronouns: he/him
 - 🌈 Fun fact:
-  I'm a comically nerdy weirdo who hides sharp logic behind ironic humor and sarcasm. I'm logical and a nerd by personality but also awkward-funny. 🤓🧬
   I love Pokemon and dinosaurs ! 🦕
   I've been working on some side projects with Vercel and Netlify. 💾
 
