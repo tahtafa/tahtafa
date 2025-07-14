@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 👾 Pronouns: he/him
 - 🌈 Fun fact:
   I'm a comically nerdy weirdo who hides sharp logic behind ironic humor and sarcasm. I'm logical and a nerd by personality but also awkward-funny. 🤓🧬
-  I love Pokemon and dinosaurs !
-  I've been working on some side projects with Vercel and Netlify.
+  I love Pokemon and dinosaurs ! 🦕
+  I've been working on some side projects with Vercel and Netlify. 💾
 
   ![Tahta's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahtafa&show_icons=true&theme=radical)
 
